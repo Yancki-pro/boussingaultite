@@ -1,0 +1,25 @@
+{
+    "name": "Edward Ortiz",
+    "age": 55,
+    "address": {
+        "street": "Wilson Expressway",
+        "city": "West Shari",
+        "state": "Michigan",
+        "zip": "50057"
+    },
+    "contact": {
+        "phone": "(440)853-6791x084",
+        "servicePhone": "800148180"
+    },
+    "birthday": "1970-02-08",
+    "ip": "78.102.128.45",
+    "foo": "bar",
+    "profile": {
+        "about": "Expert short project miss west explain. As alone lead myself I.\nScience feel soon drug sport. Son area system coach on structure.",
+        "bio": "Out after Mrs that research arm. Product happy order nothing. Specific clear finally three executive.\nSuffer almost wonder sign. Lawyer stock away ready use what."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
