@@ -1,0 +1,25 @@
+{
+    "name": "Dustin Blackwell",
+    "age": 56,
+    "address": {
+        "street": "Anthony Circle",
+        "city": "Lindsayview",
+        "state": "Iowa",
+        "zip": "57335"
+    },
+    "contact": {
+        "phone": "588-471-1535x969",
+        "servicePhone": "800938522"
+    },
+    "birthday": "1969-26-03",
+    "ip": "202.232.236.21",
+    "foo": "bar",
+    "profile": {
+        "about": "Rest Democrat public image method actually industry general. Scene travel learn campaign year write low shoulder.",
+        "bio": "Allow forget evening effort minute effect. Response knowledge happen huge base national. Seat probably system. Cold along focus church politics too."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
