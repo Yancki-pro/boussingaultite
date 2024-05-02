@@ -1,0 +1,25 @@
+{
+    "name": "Rhonda Buchanan",
+    "age": 16,
+    "address": {
+        "street": "Michael Rest",
+        "city": "Lake Robert",
+        "state": "Illinois",
+        "zip": "74339"
+    },
+    "contact": {
+        "phone": "725.732.4002x24822",
+        "servicePhone": "800666978"
+    },
+    "birthday": "2009-07-09",
+    "ip": "78.52.44.255",
+    "foo": "bar",
+    "profile": {
+        "about": "Leave maintain as never hit everyone.\nOrganization ask order stuff star. Education seven card service travel face environment.\nPainting table contain major still including line toward.",
+        "bio": "Forward management physical maybe star most. Them really truth myself. I list dark finish.\nFull probably rise point our. Year office meeting surface."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
