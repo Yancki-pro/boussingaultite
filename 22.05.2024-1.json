@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Morris",
+    "age": 104,
+    "address": {
+        "street": "Johnson Camp",
+        "city": "New Kyle",
+        "state": "Connecticut",
+        "zip": "44284"
+    },
+    "contact": {
+        "phone": "+1-831-910-7576x161",
+        "servicePhone": "800148622"
+    },
+    "birthday": "1921-21-09",
+    "ip": "205.25.177.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Recently evidence letter government yard gas. If night president remember almost. East blue record close war start early.\nFull magazine for nation different well. Threat store money science.",
+        "bio": "End compare dream next. Beautiful prevent talk section forward."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
