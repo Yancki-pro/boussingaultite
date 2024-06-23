@@ -1,0 +1,25 @@
+{
+    "name": "Ronald Stark",
+    "age": 59,
+    "address": {
+        "street": "Grant Knoll",
+        "city": "South Sara",
+        "state": "Tennessee",
+        "zip": "56005"
+    },
+    "contact": {
+        "phone": "001-273-644-5711x48846",
+        "servicePhone": "800248699"
+    },
+    "birthday": "1966-21-10",
+    "ip": "123.202.149.9",
+    "foo": "bar",
+    "profile": {
+        "about": "Western enjoy color. Thought its key subject more sort.\nWhile stage crime suddenly television former every. Discuss nation like interesting set professor. Wish best north imagine different push film.",
+        "bio": "Second husband himself challenge foreign life meet.\nPay church commercial officer exactly turn. Bed heavy receive sit attorney. Foreign section over environmental create edge throughout."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
