@@ -1,0 +1,25 @@
+{
+    "name": "Gerald Nichols",
+    "age": 53,
+    "address": {
+        "street": "Adrienne Coves",
+        "city": "South William",
+        "state": "Alaska",
+        "zip": "91700"
+    },
+    "contact": {
+        "phone": "001-544-361-0938x713",
+        "servicePhone": "800363210"
+    },
+    "birthday": "1972-24-07",
+    "ip": "117.138.10.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Become join run wide enter listen. Turn hope wish mouth. Anything forget opportunity young hand simple card.",
+        "bio": "Hope concern why they car car believe number. Start leave policy perhaps against growth.\nPretty character human defense."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
