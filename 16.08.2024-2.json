@@ -1,0 +1,25 @@
+{
+    "name": "Nicole White",
+    "age": 90,
+    "address": {
+        "street": "Allison Parks",
+        "city": "Michaelborough",
+        "state": "Maine",
+        "zip": "51320"
+    },
+    "contact": {
+        "phone": "+1-764-903-7880",
+        "servicePhone": "800858538"
+    },
+    "birthday": "1935-16-08",
+    "ip": "159.142.59.78",
+    "foo": "bar",
+    "profile": {
+        "about": "Finish cell when represent growth people stock.",
+        "bio": "Loss high team practice yet start. Painting four unit phone audience night."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
