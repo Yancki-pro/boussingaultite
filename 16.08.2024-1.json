@@ -1,0 +1,25 @@
+{
+    "name": "Dawn Stewart",
+    "age": 22,
+    "address": {
+        "street": "Tiffany Course",
+        "city": "North Michele",
+        "state": "New Hampshire",
+        "zip": "42105"
+    },
+    "contact": {
+        "phone": "001-927-914-0625x1395",
+        "servicePhone": "800481379"
+    },
+    "birthday": "2003-20-06",
+    "ip": "182.65.167.29",
+    "foo": "bar",
+    "profile": {
+        "about": "Forward small some can something of we. Price college mean all single spend. Stage determine tree run fly.",
+        "bio": "Institution possible stock place seem do significant able. Sister popular order action plan. Both main plan animal remain."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
