@@ -1,0 +1,25 @@
+{
+    "name": "Terry Mccann",
+    "age": 105,
+    "address": {
+        "street": "Foster Street",
+        "city": "Lake Robertview",
+        "state": "Utah",
+        "zip": "83154"
+    },
+    "contact": {
+        "phone": "839.852.1134",
+        "servicePhone": "800733727"
+    },
+    "birthday": "1920-05-07",
+    "ip": "76.223.220.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Culture enter admit blue discover no form. Both prevent turn simply section. Exactly billion government myself population upon spend.",
+        "bio": "Look plant argue interview reason. Send identify within and. Thank pretty seek these."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
