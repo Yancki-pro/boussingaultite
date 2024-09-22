@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Collins",
+    "age": 44,
+    "address": {
+        "street": "Rebekah Green",
+        "city": "Parkerberg",
+        "state": "Michigan",
+        "zip": "58487"
+    },
+    "contact": {
+        "phone": "+1-560-324-0399x19054",
+        "servicePhone": "800427112"
+    },
+    "birthday": "1981-07-05",
+    "ip": "193.106.28.107",
+    "foo": "bar",
+    "profile": {
+        "about": "Financial example board move minute data place. Arm take ball. Sort available member close scene.\nBring low play boy list government option heart. Military choose later computer full necessary blue.",
+        "bio": "Police almost tonight look artist. Traditional during thought public professor rich stay prepare. Animal man not recent bit."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
