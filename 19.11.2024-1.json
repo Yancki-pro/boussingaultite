@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Marshall MD",
+    "age": 92,
+    "address": {
+        "street": "Frazier Orchard",
+        "city": "Wallacestad",
+        "state": "Wisconsin",
+        "zip": "72876"
+    },
+    "contact": {
+        "phone": "(747)972-5932",
+        "servicePhone": "800356225"
+    },
+    "birthday": "1933-14-05",
+    "ip": "64.157.116.176",
+    "foo": "bar",
+    "profile": {
+        "about": "Evidence worker positive tell meeting as. Create commercial position our total.\nSeason edge thought agent. Soon then language within too thank. Against amount particularly yard.",
+        "bio": "Player blue term view media star political. Stage everyone friend add cut card prepare. Five some think develop wide deal manage. Sea thank easy music production."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
