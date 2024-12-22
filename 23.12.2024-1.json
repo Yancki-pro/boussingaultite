@@ -1,0 +1,25 @@
+{
+    "name": "Anna Smith",
+    "age": 49,
+    "address": {
+        "street": "Pennington Cliffs",
+        "city": "Victoriaton",
+        "state": "Rhode Island",
+        "zip": "57259"
+    },
+    "contact": {
+        "phone": "+1-409-768-5729x879",
+        "servicePhone": "800347408"
+    },
+    "birthday": "1976-05-08",
+    "ip": "213.212.151.158",
+    "foo": "bar",
+    "profile": {
+        "about": "Pressure past necessary myself. Character note American seek us just. Population available figure particular relationship would whom serve. Soldier prevent child story goal through.",
+        "bio": "Whole growth certainly about return case direction cause. Knowledge student theory person cup finally. Family left tax number nor."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
