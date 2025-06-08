@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Delgado",
+    "age": 7,
+    "address": {
+        "street": "Jason Brooks",
+        "city": "Monicaton",
+        "state": "Kentucky",
+        "zip": "62271"
+    },
+    "contact": {
+        "phone": "488.619.0147x611",
+        "servicePhone": "800282324"
+    },
+    "birthday": "2018-26-06",
+    "ip": "196.196.7.132",
+    "foo": "bar",
+    "profile": {
+        "about": "Draw president let list pay table. Action learn likely special front candidate sure. East whether name door. Off modern total.\nNote laugh day weight company these animal. The brother sign.",
+        "bio": "For plan agree technology run debate since. Shake read good race tonight. There once traditional social use.\nColor economic too itself four establish. Sign hospital show figure travel."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
