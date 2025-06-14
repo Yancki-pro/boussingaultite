@@ -1,0 +1,25 @@
+{
+    "name": "David Buckley",
+    "age": 10,
+    "address": {
+        "street": "Reynolds Lake",
+        "city": "North Michaelshire",
+        "state": "Illinois",
+        "zip": "60907"
+    },
+    "contact": {
+        "phone": "001-709-649-0145x0496",
+        "servicePhone": "800371191"
+    },
+    "birthday": "2015-13-07",
+    "ip": "92.234.131.52",
+    "foo": "bar",
+    "profile": {
+        "about": "Defense off who office. Way another fact scientist.\nBag maybe your data generation color remember power. Positive audience maybe scientist ten culture between.",
+        "bio": "House woman program environmental painting. Manager rate audience human opportunity bag.\nHis manage walk better. Organization government everything land view interesting. Run thing truth both."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
