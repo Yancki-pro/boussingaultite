@@ -1,0 +1,25 @@
+{
+    "name": "Sydney Ryan",
+    "age": 56,
+    "address": {
+        "street": "Nancy Shoal",
+        "city": "Ramirezmouth",
+        "state": "Iowa",
+        "zip": "55873"
+    },
+    "contact": {
+        "phone": "389-765-5400",
+        "servicePhone": "800381522"
+    },
+    "birthday": "1969-05-04",
+    "ip": "14.85.161.192",
+    "foo": "bar",
+    "profile": {
+        "about": "Enter early world really itself western cost. Season home development reality data industry wish.",
+        "bio": "Firm believe rich employee.\nIndeed who four movie without.\nCar eight management organization beyond any.\nThe trip billion whatever American. Crime let listen."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Carson",
+    "age": 56,
+    "address": {
+        "street": "Bryant Plains",
+        "city": "New Jason",
+        "state": "Rhode Island",
+        "zip": "32875"
+    },
+    "contact": {
+        "phone": "389.262.6340",
+        "servicePhone": "800334321"
+    },
+    "birthday": "1969-04-06",
+    "ip": "184.108.181.70",
+    "foo": "bar",
+    "profile": {
+        "about": "Quite behavior bank sport explain rich consumer. Machine sound both environmental power.\nDeep direction effort may remain air form teacher. Stuff only card order.",
+        "bio": "Town human tend thing international road. Base memory sing reason feel.\nCost these phone camera where get think.\nThing conference always star hope. Environment size himself again. Name later teacher."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
