@@ -1,0 +1,25 @@
+{
+    "name": "Mary Knight",
+    "age": 42,
+    "address": {
+        "street": "Black Mountains",
+        "city": "Karenburgh",
+        "state": "Arkansas",
+        "zip": "35171"
+    },
+    "contact": {
+        "phone": "960.326.1350",
+        "servicePhone": "800770173"
+    },
+    "birthday": "1983-06-06",
+    "ip": "157.255.21.27",
+    "foo": "bar",
+    "profile": {
+        "about": "Future gas likely down. Fall win site full interest avoid. Soldier subject win number ok picture.\nUpon pressure set listen leave. Tell better parent. Bad religious war maintain where success bad.",
+        "bio": "Religious enter TV unit interest. Alone boy environment play. Important able eight.\nRate conference day money almost. Student sort else again beyond. Church Mr age without."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
