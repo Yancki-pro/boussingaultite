@@ -1,0 +1,25 @@
+{
+    "name": "Dawn Robles",
+    "age": 54,
+    "address": {
+        "street": "Herrera Dam",
+        "city": "Leachmouth",
+        "state": "North Carolina",
+        "zip": "69012"
+    },
+    "contact": {
+        "phone": "+1-303-520-9469x669",
+        "servicePhone": "800120528"
+    },
+    "birthday": "1971-08-12",
+    "ip": "141.68.237.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Memory mission cultural. Your mind reveal language cost.\nInformation evening nearly paper last option shake. Safe very hand election tree someone.\nMany in space tell no other.",
+        "bio": "Explain point popular lawyer second. Hard current cause really war particularly thank. Name position enter drug may away simple car. Writer necessary change pull gun on.\nDespite exactly others she."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}

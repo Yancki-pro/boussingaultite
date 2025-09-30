@@ -1,0 +1,25 @@
+{
+    "name": "Anne Long",
+    "age": 92,
+    "address": {
+        "street": "White Knoll",
+        "city": "Sarastad",
+        "state": "New Jersey",
+        "zip": "17282"
+    },
+    "contact": {
+        "phone": "403.531.8669",
+        "servicePhone": "800514068"
+    },
+    "birthday": "1933-11-10",
+    "ip": "205.169.70.181",
+    "foo": "bar",
+    "profile": {
+        "about": "Late notice explain image recognize leader man. Expect air claim morning before firm simple. Laugh order lawyer own scene. Certainly certainly eat indeed possible.",
+        "bio": "Race hope benefit newspaper a. Home nation enough view area she do. Close they turn method truth.\nFace health hundred military another."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
