@@ -1,0 +1,25 @@
+{
+    "name": "John Burnett",
+    "age": 80,
+    "address": {
+        "street": "Matthew Walks",
+        "city": "Michellebury",
+        "state": "Utah",
+        "zip": "51308"
+    },
+    "contact": {
+        "phone": "266.345.5723x3493",
+        "servicePhone": "800698898"
+    },
+    "birthday": "1945-20-09",
+    "ip": "126.83.171.57",
+    "foo": "bar",
+    "profile": {
+        "about": "Chair mouth moment just. Radio gun today million discuss. Need full red them mother though per.",
+        "bio": "Realize close chance senior. Worry impact sometimes become of second from.\nElection picture seem discussion family. Party across phone yeah. Middle paper attorney culture."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
