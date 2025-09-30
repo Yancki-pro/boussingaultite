@@ -1,0 +1,25 @@
+{
+    "name": "Susan Hill",
+    "age": 7,
+    "address": {
+        "street": "Rosario Causeway",
+        "city": "Melissatown",
+        "state": "Nevada",
+        "zip": "55699"
+    },
+    "contact": {
+        "phone": "+1-416-340-7061x3774",
+        "servicePhone": "800343981"
+    },
+    "birthday": "2018-10-07",
+    "ip": "205.150.170.75",
+    "foo": "bar",
+    "profile": {
+        "about": "According box might either detail other shake special. Door story site. Go design clearly. Language note stuff wear I such how.",
+        "bio": "Culture smile religious. Get various event often concern boy. Window model color hand out foreign rise many.\nNumber it almost kid mission. Television more impact father. Claim fire data around."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Michael Wade",
+    "age": 108,
+    "address": {
+        "street": "Douglas Knolls",
+        "city": "Janetchester",
+        "state": "Hawaii",
+        "zip": "43202"
+    },
+    "contact": {
+        "phone": "001-372-521-9241x27055",
+        "servicePhone": "800312491"
+    },
+    "birthday": "1917-07-04",
+    "ip": "203.153.53.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Learn free training effect every. Cultural compare hear establish create. Physical movie national everyone.\nService throw well else family answer push. Up wonder turn hour book.",
+        "bio": "Hold feel summer. Community challenge may increase.\nSince create listen. Idea again quickly. Close along call check young huge over."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
