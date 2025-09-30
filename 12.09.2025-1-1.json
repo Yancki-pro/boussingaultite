@@ -1,0 +1,25 @@
+{
+    "name": "Carlos Macdonald",
+    "age": 100,
+    "address": {
+        "street": "Bates Isle",
+        "city": "East Jennaville",
+        "state": "North Dakota",
+        "zip": "88540"
+    },
+    "contact": {
+        "phone": "923.421.4988x57148",
+        "servicePhone": "800005022"
+    },
+    "birthday": "1925-08-12",
+    "ip": "53.131.192.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Experience share energy street window economic suffer. Response bar pay law manager citizen cultural. Edge character against instead perform.",
+        "bio": "Apply degree prevent Mr. Concern run see second though per floor city. Improve note kid middle. Nothing better nor same probably life board top."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
