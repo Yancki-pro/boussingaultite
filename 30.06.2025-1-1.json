@@ -1,0 +1,25 @@
+{
+    "name": "Penny Calderon",
+    "age": 87,
+    "address": {
+        "street": "Oconnor Island",
+        "city": "Emilyside",
+        "state": "Iowa",
+        "zip": "60433"
+    },
+    "contact": {
+        "phone": "457.693.3588",
+        "servicePhone": "800634780"
+    },
+    "birthday": "1938-08-01",
+    "ip": "200.100.58.144",
+    "foo": "bar",
+    "profile": {
+        "about": "Face well population someone month reach. Citizen maybe class worry mission husband. Mr edge bill wear base personal easy.",
+        "bio": "Example pretty those tonight music. Quickly staff and skin safe nothing.\nPolicy ok student. Fast appear ask whether. Job up nothing.\nClearly same condition together. Against evidence me sing current."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}

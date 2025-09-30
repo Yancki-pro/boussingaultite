@@ -1,0 +1,25 @@
+{
+    "name": "April Steele",
+    "age": 87,
+    "address": {
+        "street": "Brown Meadows",
+        "city": "Turnerville",
+        "state": "New Hampshire",
+        "zip": "34990"
+    },
+    "contact": {
+        "phone": "360.888.1205",
+        "servicePhone": "800217163"
+    },
+    "birthday": "1938-31-03",
+    "ip": "202.235.181.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Sound beautiful sea prove whatever investment. Box deal life question lawyer.\nGood she dark human our anyone. Task cold total present cut put star team. Eye employee democratic because former cut.",
+        "bio": "Bit thousand rich then many skill. Happen enough present own. Pattern door degree."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
